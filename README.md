@@ -1,23 +1,3 @@
-Below is a clean, professional, production-ready **README.md** file for your **React + Tailwind ID Card Generator Application**.
-
-It includes:
-
-✔ Project overview
-✔ Features
-✔ Tech stack
-✔ Folder structure
-✔ Installation guide
-✔ Usage guide
-✔ Export instructions
-✔ CORS image requirements (important for PNG/PDF export)
-✔ Contributing
-✔ License
-
----
-
-# ✅ **README.md (Copy–Paste Ready)**
-
-```md
 # 🎟️ ID Card Generator (React + Tailwind + Framer Motion)
 
 A fully customizable **ID Card Generator** built with **React**, **Tailwind CSS**, and **Framer Motion**.  
